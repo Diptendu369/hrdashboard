@@ -11,7 +11,7 @@ The **HR Performance Dashboard** is a modern, professional web application desig
 
 <div align="center">
   <a href="https://youtu.be/v9t57R1fwmw" target="_blank">
-    <img src="https://github.com/Diptendu369/hrdashboard/blob/main/public/Streamline_HR_With_Our_Dashboard_250c2a35-0822-41b3-bfe1-45ee8ec8e0a7.jpg" alt="Watch the demo" width="600"/>
+    <img src="https://github.com/Diptendu369/hrdashboard/blob/main/public/Screenshot%202025-05-27%20224723.png" alt="Watch the demo" width="600"/>
   </a>
 </div>
 
