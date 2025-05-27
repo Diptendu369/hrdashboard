@@ -1,6 +1,6 @@
 # HR Performance Dashboard
 
-## Introduction
+
 
 The **HR Performance Dashboard** is a modern, professional web application designed to help HR teams manage, analyze, and empower their workforce. Built with Next.js, Tailwind CSS, Zustand, Firebase Auth, Chart.js, Framer Motion, and DiceBear avatars, it offers a beautiful, responsive, and feature-rich experience for HR professionals.
 
