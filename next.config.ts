@@ -1,7 +1,19 @@
-import type { NextConfig } from "next";
+// import type { NextConfig } from "next";
 
-const nextConfig: NextConfig = {
-  output: 'export',
+// const nextConfig: NextConfig = {
+//   output: 'export',
+// };
+
+// export default nextConfig;
+
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  images: {
+    domains: [
+      'randomuser.me',
+      'api.dicebear.com'
+    ],
+  },
 };
 
-export default nextConfig;
+module.exports = nextConfig;
